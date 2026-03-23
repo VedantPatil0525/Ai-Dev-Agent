@@ -8,16 +8,12 @@ An AI-powered developer assistant that helps automate common software developmen
 
 * 🔍 **Code Explanation**
   Understand any code snippet in simple terms.
-
 * 🐞 **Bug Detection & Fixing**
   Identify errors and get corrected code suggestions.
-
-* 📄 **Documentation Generation**
+* 📄 **Documentation Generation** 
   Automatically generate structured documentation including function descriptions, parameters, and return values.
-
 * 🧪 **Unit Test Generation**
   Generate test cases using `pytest` for better code reliability.
-
 * ⚡ **Auto Mode (Optional)**
   AI decides the best action (explain/debug/document/test) based on the given code.
 
@@ -54,35 +50,6 @@ ai_dev_agent/
 
 ---
 
-## ▶️ How to Run
-
-### 1. Clone the Repository
-
-```
-git clone https://github.com/your-username/ai-dev-assistant.git
-cd ai-dev-assistant
-```
-
-### 2. Install Dependencies
-
-```
-pip install -r requirements.txt
-```
-
-### 3. Run Ollama (LLM)
-
-```
-ollama run llama3
-```
-
-### 4. Start the Application
-
-```
-streamlit run app.py
-```
-
----
-
 ## 🧪 Example Use Cases
 
 * Debugging faulty Python code
@@ -98,7 +65,6 @@ Example:
 
 ```
 /screenshots/output1.png
-/screenshots/output2.png
 ```
 
 ---
@@ -126,7 +92,8 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Vedant Patil
+Vedant Patil \
 Artificial Intelligence & Data Science Student
 
 ---
+
